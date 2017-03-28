@@ -1,2 +1,3 @@
-second master f
-Then "git merge topic" will replay the changes made on the topic branch since it diverged from master (i.e., E) until its current commit (C) on top of master
+second master file
+
+comit by master check diff
